@@ -21,5 +21,5 @@ int main()
         sum3 += i;
     }
     std::cout << "（for语句）0-1000的和为" << sum3 << std::endl;
-
+    return 0;
 }
