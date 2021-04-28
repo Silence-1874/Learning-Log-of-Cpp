@@ -46,6 +46,7 @@ int main()
             break;
         case 3:
             getArea3();
+            break;
         default:
             ;
         }
