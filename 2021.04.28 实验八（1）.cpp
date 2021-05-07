@@ -4,7 +4,6 @@ inline int getMax(int * p, int n)
     int max = -2147483648;
     for (int i = 0; i < n; i++) {
         max = max > *(p + i) ? max : *(p + i);
-
     }
     return max;
 }
